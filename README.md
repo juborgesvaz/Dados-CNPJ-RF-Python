@@ -10,3 +10,12 @@ O arquivo de dados disponibilizado pela RF vem quebrado e é muito grande. O scr
 
 
 ## Scheduler para execução periódica
+
+
+## Dados **Raw**
+
+
+## Dados Standardized
+
+
+## Dados Conformed
