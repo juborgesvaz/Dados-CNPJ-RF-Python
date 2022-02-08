@@ -12,10 +12,12 @@ O arquivo de dados disponibilizado pela RF vem quebrado e é muito grande. O scr
 ## Scheduler para execução periódica
 
 
-## Dados **Raw**
-
+## Dados Raw
+Pasta onde salvo os dados baixados no seu formato original.
 
 ## Dados Standardized
-
+Pasta onde transformo os arquivos em um formato mais fácil para leitura.
 
 ## Dados Conformed
+Pasta onde salvo os dados processados para disponibilização na aplicação.
+(Padronização do tipo do dado, nome de coluna, melhoria do conteúdo).
