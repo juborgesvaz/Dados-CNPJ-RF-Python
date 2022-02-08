@@ -1,6 +1,6 @@
 # Base CNPJ Receita Federal - Python
 
-Processamento via Python dos dados de empresa, estabelecimento e sócio da base pública de CNPJs da Receita Federal e disponibiliza em um banco de dados estruturados para consumo.
+Processamento via Python dos [dados de empresa, estabelecimento e sócio da base pública de CNPJs da Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/dados-publicos-cnpj) e disponibiliza em um banco de dados estruturados para consumo.
 
 
 ## Antes de executar
