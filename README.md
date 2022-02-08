@@ -7,6 +7,7 @@ O novo layout do dados abertos do CNPJ  está disponível [aqui](https://www.gov
 
 ## Antes de executar
 O arquivo de dados disponibilizado pela RF vem quebrado e é muito grande. O script implementa o fluxo utilizando apenas 1 parte devido ao tamanho da base e limitação de recursos para processamento.
+
 No local onde salvar o 'script.py', criar três pastas: 'Raw', 'Standardized' e 'Conformed'.
 
 
